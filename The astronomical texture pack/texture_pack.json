@@ -1,0 +1,19 @@
+{
+	"id": "astro",
+	"name": "The astronomical texture pack",
+	"display_name": "The astronomical texture pack",
+	"author": ["Yotam"],
+	"description": "changes some of the joker textures in balatro!",
+	"prefix": "Astro",
+	"main_file": "main.lua",
+	"priority": 1,
+	"badge_colour": "2c074e",
+	"badge_text_colour": "ffffff",
+	"version": "1.0.0",
+	"dependencies": ["malverk"],
+		
+	"conflicts": [
+	],
+	"provides": [
+	]
+}
